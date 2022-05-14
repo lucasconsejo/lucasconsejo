@@ -30,6 +30,6 @@
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/lucasconsejo"><img src="https://github-readme-stats.vercel.app/api?username=lucasconsejo&show_icons=true&hide=prs,issues,contribs&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=000000&hide_border=true&show_icons=true" alt="lucasconsejo's GitHub stats" /></a>
+<a href="http://www.github.com/lucasconsejo"><img src="https://github-readme-stats.vercel.app/api?username=lucasconsejo&show_icons=true&hide=prs,issues,&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=1c1917&hide_border=true&show_icons=true" alt="lucasconsejo's GitHub stats" /></a>
 
 Lucas Consejo ⚡
