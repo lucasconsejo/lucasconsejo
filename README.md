@@ -3,6 +3,7 @@
 
 * 🇫🇷  I'm based in Bordeaux
 * 🖥️ See my portfolio : [https://www.lucasconsejo.fr](https://www.lucasconsejo.fr)
+* 📱 I developed [Notes](https://play.google.com/store/apps/details?id=com.lucasconsejo.notes) (only available on Android for now)
 * 🚀 I am currently working on the redesign of [react-svg-color](https://www.npmjs.com/package/react-svg-color)
 * ✉️  You can contact me at [lucas.consejo@gmail.com](mailto:lucas.consejo@gmail.com)
 
